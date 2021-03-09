@@ -10,7 +10,7 @@
 * Descargar el [ChromeDriver](https://chromedriver.chromium.org/) segun su version de Chrome
 
 ## Importacion del proyecto en Intellij IDEA
-Abrimos Intellij IDEA indicamos que vamos a crear un nuevo proyecto y que lo importaremos de un gestor de control de versiones, copiamos la url de este proyecto https://github.com/HolGonzalez/analista-de-pruebas-nivel-I, la pegamos en Intellij IDEA y finalizamos en clonar. una vez el proyecto se haya clonado en nuestro equipo comenzara a indexar los archivos y aparecera una alerta en la cual nos pregunta la configuración de proyecto nos brinda dos opciones Maven o Gradle, en este escenario seleccionamos Gradle.  
+Abrimos Intellij IDEA indicamos que vamos a crear un nuevo proyecto y que lo importaremos de un gestor de control de versiones, copiamos la url de este proyecto https://github.com/HolGonzalez/serenity-bdd, la pegamos en Intellij IDEA y finalizamos en clonar. una vez el proyecto se haya clonado en nuestro equipo comenzara a indexar los archivos y aparecera una alerta en la cual nos pregunta la configuración de proyecto nos brinda dos opciones Maven o Gradle, en este escenario seleccionamos Gradle.  
 ![Gradle](https://i.ibb.co/VgdCSCq/Captura-de-Pantalla-2021-02-27-a-la-s-8-09-38-p-m.png)
 
 
